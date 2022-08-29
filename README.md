@@ -1,16 +1,9 @@
 # Cool EKS
 
-## Video Resource from Youtube
+## Tools around EKS
 
-### EKS Tales
-
-* Episode 1: 
-* Episode 2: 
-* Episode 3: 
-* Episode 4:
-* Episode 5: 
-* Episode 6: 
-* Episode 7:
+* [eksctl](https://eksctl.io/)
+* [kubectl-eks](https://github.com/surajincloud/kubectl-eks) plugin
 
 ### Containers from Couch
 
